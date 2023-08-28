@@ -10,7 +10,7 @@ rules for uploading file to github from local system:-
    b. if multiple files have to add-
        git add .
 5. then commit msg that you have change or added a new file:-
-   git command -m "write msg here"
+   git commit -m "write msg here"
 6. then push the clone file to the github using command-
    git push
 
